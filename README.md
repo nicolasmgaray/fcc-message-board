@@ -17,5 +17,5 @@
 
 <h2>Live Example</h2>
 
-https://fcc-message-board-project.glitch.me/b/general
+https://fcc-message-board-project.glitch.me
 
